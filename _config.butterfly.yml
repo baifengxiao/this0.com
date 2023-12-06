@@ -266,9 +266,9 @@ aside:
       link: https://github.com/baifengxiao/this0.com
   card_announcement:
     enable: true
-    content: <center><b>✨右下角呼唤站长，若失联请加微</b><br></center>
+    content: <center><b>✨右下角在线联系站长</b><br></center>
   card_recent_post:
-    enable: false
+    enable: true
     limit: 3 # if set 0 will show all
     sort: date # date or updated
     sort_order: # Don't modify the setting unless you know how it works
